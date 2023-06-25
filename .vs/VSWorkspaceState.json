@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MisaWeb05.Core",
+    "\\MisaWeb05.Core\\Entity",
+    "\\MisaWeb05.Infastructure",
+    "\\MisaWeb05.Infastructure\\Repositories",
+    "\\MisaWeb05.Infastructure\\Repositories\\Impl"
+  ],
+  "SelectedNode": "\\MisaWeb05.Infastructure\\Repositories\\Impl\\BaseRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

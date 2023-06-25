@@ -1,0 +1,15 @@
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Infastructure\bin\Debug\net6.0\MisaWeb05.Infastructure.deps.json
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Infastructure\bin\Debug\net6.0\MisaWeb05.Infastructure.dll
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Infastructure\bin\Debug\net6.0\MisaWeb05.Infastructure.pdb
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Infastructure\bin\Debug\net6.0\MisaWeb05.Core.dll
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Infastructure\bin\Debug\net6.0\MisaWeb05.Core.pdb
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Infastructure\obj\Debug\net6.0\MisaWeb05.Infastructure.csproj.AssemblyReference.cache
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Infastructure\obj\Debug\net6.0\MisaWeb05.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Infastructure\obj\Debug\net6.0\MisaWeb05.Infastructure.AssemblyInfoInputs.cache
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Infastructure\obj\Debug\net6.0\MisaWeb05.Infastructure.AssemblyInfo.cs
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Infastructure\obj\Debug\net6.0\MisaWeb05.Infastructure.csproj.CoreCompileInputs.cache
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Infastructure\obj\Debug\net6.0\MisaWeb05.Infastructure.csproj.CopyComplete
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Infastructure\obj\Debug\net6.0\MisaWeb05.Infastructure.dll
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Infastructure\obj\Debug\net6.0\refint\MisaWeb05.Infastructure.dll
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Infastructure\obj\Debug\net6.0\MisaWeb05.Infastructure.pdb
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Infastructure\obj\Debug\net6.0\ref\MisaWeb05.Infastructure.dll

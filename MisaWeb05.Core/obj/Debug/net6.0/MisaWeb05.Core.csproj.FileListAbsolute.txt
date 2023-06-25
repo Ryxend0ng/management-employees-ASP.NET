@@ -1,0 +1,12 @@
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Core\obj\Debug\net6.0\MisaWeb05.Core.csproj.AssemblyReference.cache
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Core\obj\Debug\net6.0\MisaWeb05.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Core\obj\Debug\net6.0\MisaWeb05.Core.AssemblyInfoInputs.cache
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Core\obj\Debug\net6.0\MisaWeb05.Core.AssemblyInfo.cs
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Core\obj\Debug\net6.0\MisaWeb05.Core.csproj.CoreCompileInputs.cache
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Core\bin\Debug\net6.0\MisaWeb05.Core.deps.json
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Core\bin\Debug\net6.0\MisaWeb05.Core.dll
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Core\bin\Debug\net6.0\MisaWeb05.Core.pdb
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Core\obj\Debug\net6.0\MisaWeb05.Core.dll
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Core\obj\Debug\net6.0\refint\MisaWeb05.Core.dll
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Core\obj\Debug\net6.0\MisaWeb05.Core.pdb
+C:\Users\0961011310\source\repos\MisaWeb05\MisaWeb05.Core\obj\Debug\net6.0\ref\MisaWeb05.Core.dll

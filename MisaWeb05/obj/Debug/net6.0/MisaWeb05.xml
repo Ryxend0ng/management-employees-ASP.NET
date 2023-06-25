@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MisaWeb05</name>
+    </assembly>
+    <members>
+        <member name="T:MisaWeb05.api.Controllers.BaseController">
+            <summary>
+            Lớp base controller
+            CreatedBy: Nguyễn Văn Đông (23/06/2022)
+            </summary>
+        </member>
+        <member name="M:MisaWeb05.api.Controllers.DepartmentsController.GetAllDepartment">
+            <summary>
+            API lấy toàn bộ phòng ban từ CSDL
+            
+            </summary>
+            CreatedBy: Nguyễn Văn Đông (23/06/2022)
+            <returns></returns>
+        </member>
+        <member name="M:MisaWeb05.api.Controllers.DepartmentsController.GetByDepartmentId(System.Guid)">
+            <summary>
+            API lấy phòng ban theo DepartmentId
+            
+            </summary>
+            CreatedBy: Nguyễn Văn Đông (23/06/2022)
+            <returns></returns>
+        </member>
+        <member name="M:MisaWeb05.api.Controllers.DepartmentsController.Insertdepartment(MisaWeb05.Core.Entity.Department)">
+            <summary>
+            API thêm phòng ban 
+            
+            </summary>
+            CreatedBy: Nguyễn Văn Đông (23/06/2022)
+            <returns></returns>
+        </member>
+        <member name="T:MisaWeb05.api.Controllers.EmployeesController">
+            <summary>
+            Lớp nhan viên controller
+            
+            </summary>
+            CreatedBy: Nguyễn Văn Đông (23/06/2022)
+        </member>
+        <member name="M:MisaWeb05.api.Controllers.EmployeesController.GetAllEmployees">
+            <summary>
+            API lấy toàn bộ employee
+            
+            </summary>
+            CreatedBy: Nguyễn Văn Đông (23/06/2022)
+            <returns></returns>
+        </member>
+        <member name="M:MisaWeb05.api.Controllers.EmployeesController.GetEmployeeById(System.Guid)">
+             <summary>
+             API lấy Employee theo EmployeeId
+            
+             </summary>
+              CreatedBy: Nguyễn Văn Đông (23/06/2022)
+             <returns></returns>
+             <remarks>
+             
+                Test Id: "002988c1-f7bc-11ec-82ee-0259e1bc84a2"
+             
+             </remarks>
+        </member>
+        <member name="M:MisaWeb05.api.Controllers.EmployeesController.InsertEmployee(MisaWeb05.Core.Entity.Employee)">
+            <summary>
+            API thêm employee
+            
+            </summary>
+            CreatedBy: Nguyễn Văn Đông (23/06/2022)
+            <returns></returns>
+        </member>
+        <member name="M:MisaWeb05.api.Controllers.EmployeesController.UpdateEmployee(MisaWeb05.Core.Entity.Employee)">
+            <summary>
+            API sửa employee
+            
+            </summary>
+            CreatedBy: Nguyễn Văn Đông (23/06/2022)
+            <returns></returns>
+        </member>
+        <member name="M:MisaWeb05.api.Controllers.EmployeesController.DeleteEmployee(System.Guid)">
+            <summary>
+            API xóa employee
+            
+            </summary>
+            CreatedBy: Nguyễn Văn Đông (23/06/2022)
+            <returns></returns>
+        </member>
+        <member name="M:MisaWeb05.api.Controllers.EmployeesController.FlterWithPagination(System.Nullable{System.Int32},System.Nullable{System.Int32},System.String)">
+            <summary>
+            API lọc theo page và tìm kiếm employee
+            
+            </summary>
+            CreatedBy: Nguyễn Văn Đông (23/06/2022)
+            <returns></returns>
+        </member>
+        <member name="M:MisaWeb05.api.Controllers.EmployeesController.GetNewEmployeeCode">
+            <summary>
+            API lấy một mã  employee code mới
+            
+            </summary>
+            CreatedBy: Nguyễn Văn Đông (23/06/2022)
+            <returns></returns>
+        </member>
+        <member name="M:MisaWeb05.api.Controllers.EmployeesController.ImportExcel(Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            API nhập khẩu
+            
+            </summary>
+            CreatedBy: Nguyễn Văn Đông (23/06/2022)
+            <returns></returns>
+        </member>
+        <member name="M:MisaWeb05.api.Controllers.EmployeesController.ExportExcel">
+            <summary>
+            API nhập khẩu
+            
+            </summary>
+            CreatedBy: Nguyễn Văn Đông (23/06/2022)
+            <returns></returns>
+        </member>
+    </members>
+</doc>
